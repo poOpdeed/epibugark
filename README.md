@@ -32,7 +32,7 @@ To propose new features or modifications, open a **[New Issue](./issues/new)** u
 
 - **No Sensitive Info:** Never post passwords, API keys, or personal private data in an issue.
 - **Stay On Topic:** Keep discussions focused on the reported issue or feature request.
-- **Be Kind:** Respect other members of the community and our team.
+- **Be Kind, Rewind:** Submit appropriate and professional cases, or your feature will be denied.
 
 ---
 
