@@ -1,4 +1,4 @@
-# 💬 [Epitaphi] — Community & Bug Tracking
+# 💬 [Epitaphi] — Issues & Bug Tracking
 
 Welcome to the official issue tracker for
 
